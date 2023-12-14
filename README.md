@@ -1,9 +1,9 @@
-# Alboncalc
+# Alboncalc :moneybag::bar_chart:
 
 A Alboncalc é uma calculadora de lotes que leva como base de cálculo, o ativo, a meta financeira e os pontos por operação, fazendo com que o operador de mini dólar e mini índice tenha o resultado da quantidade ideal ou aproximada de lotes para cada operação que for aberta, tudo isso de forma rápida e simplificada.
 
 ## Como usar
-Para executar o programa, faça o download do instalador disponível no link:( https://drive.google.com/file/d/1531IbD_YZtbsHv7dxbBY8rC7jo50V_2h/view?usp=sharing). O Arquivo terá o nome de 'Instalador Alboncalc.exe'. Após isso, abra o instalador no seu computador e siga os passos propostos até que a instalação seja concluída. Clique no ícone 'Alboncalc' e acesse a ferramenta. Após realizar o acesso, o programa irá solicitar que você digite os seguintes dados:
+Para executar o programa, faça o download do instalador disponível no link: https://drive.google.com/file/d/1531IbD_YZtbsHv7dxbBY8rC7jo50V_2h/view?usp=sharing. O Arquivo terá o nome de 'Instalador Alboncalc.exe'. Após isso, abra o instalador no seu computador e siga os passos propostos até que a instalação seja concluída. Clique no ícone 'Alboncalc' e acesse a ferramenta. Após realizar o acesso, o programa irá solicitar que você digite os seguintes dados:
 
 O ativo que você deseja operar (Mini Índice ou Mini Dólar);
 
